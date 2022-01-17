@@ -143,10 +143,10 @@ nav,
 .learn-more,
 .get-started {
     color: ghostwhite;
-    padding: 1em 0;
+    padding: 1.25em 0;
     border-radius: 0.5em;
     font-weight: 700;
-    font-size: 0.85rem;
+    font-size: 1rem;
     margin-bottom: 0.5em;
     width: 12em;
     border: none;
@@ -172,6 +172,9 @@ nav,
 .get-started {
     background-color: rgb(27, 182, 161);
     transition: all 200ms ease-in-out;
+    padding: 1.25em 0;
+    padding-top: 1.42em;
+    border-radius: 0.5em;
 }
 
 .get-started:hover,
@@ -277,7 +280,7 @@ nav,
     width: 100%;
     padding-bottom: 10em;
     position: relative;
-    margin-bottom: 0.85em;
+    margin-bottom: 1.75em;
 }
 
 .mobiles {
@@ -302,17 +305,22 @@ nav,
 
 .store-img1 {
     width: 8.5em;
-    padding-left: 1.25em;
+    /* padding-left: 1.25em; */
     position: absolute;
     bottom: 2em;
+    left: 1em;
+    border: 0.2px solid white;
+    border-radius: 7px;
 }
 
 .store-img2 {
-    width: 8.5em;
-    padding-left: 1.25em;
+    width: 9em;
+    border: 1px solid white;
+    border-radius: 7px;
+    /* padding-left: 1.25em; */
     position: absolute;
     bottom: 2em;
-    left: 9em;
+    left: 10.5em;
 }
 
 .solo-get-started {
@@ -376,6 +384,8 @@ nav,
 
 .footer-lists li {
     margin-bottom: 0.25em;
+    font-size: 0.8rem;
+    font-weight: 300;
 }
 
 .footer-lists a {
@@ -389,9 +399,10 @@ nav,
 }
 
 .list-heading {
-    font-weight: 700;
+    font-weight: 900;
     margin-bottom: 1em;
     font-size: 0.9rem;
+    border-bottom: 0.5px solid rgb(150, 207, 185);
 }
 
 .ad {
@@ -441,12 +452,15 @@ nav,
 .ad-store-img1 {
     width: 8.20em;
     margin: 0 0.25em;
-    
+    border: 0.2px solid white;
+    border-radius: 7px;
 }
 
 .ad-store-img2 {
     width: 8.25em;
     margin: 0.25em;
+    border: 0.2px solid white;
+    border-radius: 7px;
 }
 
 .social img {
