@@ -1,7 +1,7 @@
 # eBird-Site-Clone
 
 ## Preview:
-[https://ketankarki.github.io/eBird-Site-Clone/index.html](https://ketankarki.github.io/eBird-Site-Clone/index.html)
+[https://ketankarki.github.io/eBird-Site-Clone/](https://ketankarki.github.io/eBird-Site-Clone/)
 
 This is a clone of a website eBird made using HTML and CSS only.
 To visit the original site, [Click Here](https://ebird.org/home)
