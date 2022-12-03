@@ -7,7 +7,7 @@ This is a clone of a website eBird made using HTML and CSS only.
 To visit the original site, [Click Here](https://ebird.org/home)
 
 * This clone is fully responsive
-* This is made with taking original site as insipiration with modifying few things.
+* This is made with taking original site as inspiration with modifying few things.
 * Right now it consists of three modules Home, Explore and Science
 
 ## Technologies Used:
